@@ -1,3 +1,13 @@
+
+![Screenshot 2024-05-22 at 3 32 15 PM](https://github.com/CWisda/pokedex/assets/110426681/40bf0909-500e-4e00-b3ac-0994a435609c)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
